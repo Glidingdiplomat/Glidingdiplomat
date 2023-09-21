@@ -7,8 +7,8 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Full Stack Development at University Of Minesotta.
-- 💼 &nbsp; Working as a Security Supervisor at a Investment Bank & Target Team Member.
+- 🎓 &nbsp; Studying Full Stack Development at UofM.
+- 💼 &nbsp; Working as a Security Supervisor at a Investment Bank & Food & Beverage Expert.
 - 🌱 &nbsp; Learning more about coding and Tech related topics.
 - ✍️ &nbsp; Pursuing Graphic Design and gaming as hobbies and learning new things.
 
@@ -43,9 +43,4 @@
 
 <br/>
 
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AVS1508&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVS1508&theme=buefy&layout=compact" />
-</a>
 
-<br/>
