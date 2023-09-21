@@ -41,5 +41,7 @@
   ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
 
 <br/>
+#### Github Stats
+![Sir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Glidingdiplomat&show_icons=true&bg_color=00000000)
 
 
