@@ -42,6 +42,6 @@
 
 <br/>
 #### Github Stats
-![Sir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Glidingdiplomat&show_icons=true&bg_color=00000000)
+![Sir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Glidingdiplomat&show_contrib,prs=true&bg_color=00000000)
 
 
